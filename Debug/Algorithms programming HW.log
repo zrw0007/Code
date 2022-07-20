@@ -1,0 +1,28 @@
+﻿  Source.cpp
+C:\Users\Hank\source\repos\Algorithms\Algorithms programming HW\Source.cpp(79,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hank\source\repos\Algorithms\Algorithms programming HW\Source.cpp(117,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Hank\source\repos\Algorithms\Algorithms programming HW\Source.cpp(177,15): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\Hank\source\repos\Algorithms\Algorithms programming HW\Source.cpp(180,15): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\Hank\source\repos\Algorithms\Algorithms programming HW\Source.cpp(183,15): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\Hank\source\repos\Algorithms\Algorithms programming HW\Source.cpp(186,15): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\Hank\source\repos\Algorithms\Algorithms programming HW\Source.cpp(225,89): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Hank\source\repos\Algorithms\Algorithms programming HW\Source.cpp(238,89): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Hank\source\repos\Algorithms\Algorithms programming HW\Source.cpp(250,89): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Hank\source\repos\Algorithms\Algorithms programming HW\Source.cpp(262,89): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Algorithms programming HW.vcxproj -> C:\Users\Hank\source\repos\Algorithms\Algorithms programming HW\Debug\Algorithms programming HW.exe
